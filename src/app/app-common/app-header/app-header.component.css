@@ -1,0 +1,9 @@
+.header{
+background: gray;
+}
+.container{
+    display: inline;
+}
+.login{
+    float: right;
+}
